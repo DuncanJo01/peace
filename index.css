@@ -81,8 +81,8 @@ header table {
     margin:0px auto;
 }
 #logo {
-    font-size:24px;
-    color:rgb(255, 44, 90);
+    font: size 30px;
+    color:rgb(220, 208, 255);
 }
 #navigation {
     text-align:right;
